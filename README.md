@@ -1,4 +1,4 @@
-# Meu Projeto Python
+# Estrator de ficha cadastral em PDF para CSV
 
 Este é um novo projeto Python criado no disco local.
 
