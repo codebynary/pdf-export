@@ -25,7 +25,7 @@ class ExtratorWordArquivoUnico:
     
     def __init__(self, root):
         self.root = root
-        self.root.title(f"Extrator de Fichas Word v{self.VERSION} - Arquivo Único")
+        self.root.title(f"Extrator de Fichas DOCX v{self.VERSION} - Multi-Fichas")
         self.root.geometry("750x550")
         self.root.resizable(True, True)
         

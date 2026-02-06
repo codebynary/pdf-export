@@ -1,4 +1,4 @@
-# Estrator de ficha cadastral em PDF para CSV
+# Projeto Extrator de Fichas DOCX
 
 Este é um novo projeto Python criado no disco local.
 

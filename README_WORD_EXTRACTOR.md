@@ -1,4 +1,4 @@
-# 📄 Extrator em Lote de Fichas de Registro (Word → Excel)
+# 📄 Extrator de Fichas DOCX (Multi-Fichas)
 
 ## 🎯 Descrição
 
